@@ -1,6 +1,7 @@
 # Agiliza SUS – Imersão IA Alura + Google
 
-Projeto para facilitar a triagem digital de usuários do SUS, classificando por sintomas, localização (CEP), idade e condições clínicas, recomendando o nível de atenção mais adequado via agentes de IA generativa.
+O Agiliza SUS orienta e ajuda o usúário a encontrar a unidade de saúde adequada de acordo com o sintoma ou serviço desejado. A única informção necessária e obrigatória é a digitação do sintoma ou do serviço desejado para o agente de IA realizar a busca. O usuário ainda tem a opçao de inserir o CEP para receber um link com as unidades mais próximas. Ainda é possível inserir a idade e as condições de saúde para receber uma orientação mais personalizada. 
+O Sistema Único de Saúde (SUS) atende a mais de 190 milhões de pessoas no Brasil, o que equivale a quase toda a população do país, segundo o Ministério da Saúde. O Projeto facilita a triagem digital de usuários do SUS, de maneira fácil e rápida recomendando o nível de atenção mais adequado via agentes de IA generativa. A orientação correta ao usuário do Sistema Único de Saúde (SUS) sobre a unidade de saúde adequada, seja para consultas, exames ou procedimentos, contribui para o bom funcionamento do sistema e evita sobrecarga.
 
 ## Como rodar
 
